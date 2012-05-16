@@ -1,7 +1,7 @@
 CUHOG
 =====
 
-Authors: Xu Hu, Marco Pedersoli and Jordi González
+Authors: Shell Hu, Marco Pedersoli and Jordi González
 
 A HOG implementation on CUDA, which is compatible with Pedro Felzenszwalb's 31-dim HOG seamlessly.
 
