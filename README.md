@@ -1,4 +1,4 @@
 CUHOG
 =====
 
-CUDA HOG, compatible with Pedro Felzenswalb's 31-dim HOG seamlessly.
+CUDA HOG, compatible with Pedro Felzenszwalb's 31-dim HOG seamlessly.
