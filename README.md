@@ -1,8 +1,6 @@
 CUHOG
 =====
 
-Authors: Shell Hu, Marco Pedersoli and Jordi González
-
 A HOG implementation on CUDA, which is compatible with Pedro Felzenszwalb's 31-dim HOG seamlessly.
 
 This implementation is based on fastHOG [1] and groundHOG [2]. Our real-time object detection system will be released in next version associated with the Coarse-to-fine [3].
@@ -13,3 +11,15 @@ An example with matlab interface will also give. Currently, for a 640x480 image 
 [2] P. Sudowe. GroundHOG - GPU-based Object Detection with Geometric Constraints. http://www.mmp.rwth-aachen.de/projects/groundhog, 2011.
 
 [3] M. Pedersoli, A. Vedaldi, J. Gonzàlez, " A Coarse-to-fine approach for fast deformable object detection ", in 24th IEEE Computer Vision and Pattern Recognition (CVPR2011), Colorado Springs, CO, June, 2011.
+
+
+ABOUT THE CODE
+
+This implementation was developed by Xu Hu and Marco Pedersoli. It is provided without any warranty, express or implied. Please use it if it can assist in your research; we request you to cite our paper:
+
+@article{
+    author = "X. Hu and M. Pedersoli and J. Gonzalez",
+    title = "Towards a Real-Time Pedestrian Detection based only on Vision",
+    journal = "JOURNAL OF INTELLIGENT TRANSPORTATION SYSTEM",
+    year = "under review"
+}
