@@ -18,7 +18,7 @@ ABOUT THE CODE
 This implementation was developed by Xu Hu and Marco Pedersoli. It is provided without any warranty, express or implied. Please use it if it can assist in your research; we request you to cite our paper:
 
 @article{
-    author = "X. Hu and M. Pedersoli and J. Gonzalez",
+    author = "M. Pedersoli and J. Gonzalez and X.Hu and X. Roca",
     title = "Towards a Real-Time Pedestrian Detection based only on Vision",
     journal = "JOURNAL OF INTELLIGENT TRANSPORTATION SYSTEM",
     year = "under review"
