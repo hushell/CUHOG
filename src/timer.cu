@@ -1,4 +1,7 @@
 //
+//    This file is derived from groundHOG, which is used for time counting, 
+//    see below for more detail:
+//
 //    Copyright (c) 2009-2011
 //      Patrick Sudowe	<sudowe@umic.rwth-aachen.de>
 //      RWTH Aachen University, Germany

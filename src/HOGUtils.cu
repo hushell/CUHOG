@@ -1,3 +1,7 @@
+// 
+// This file is derived from fastHOG, some utility functions are used in CUHOG
+//
+
 #include "HOGUtils.h"
 
 //Round a / b to nearest higher integer value

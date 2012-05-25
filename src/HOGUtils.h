@@ -1,3 +1,8 @@
+// 
+// This file is derived from fastHOG, some utility functions are used in CUHOG
+//
+
+
 #ifndef __HOG_UTILS__
 #define __HOG_UTILS__
 
